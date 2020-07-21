@@ -108,3 +108,12 @@
 | 93(문제 5) | 뉴스 클러스터링 | ★★ | 부록 B. 카카오 공채 문제 풀이 | [5.py](appendix-B/5.py) |
 | 94(문제 6) | 프렌즈4블록 | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [6.py](appendix-B/6.py) |
 | 95(문제 7) | 추석 트래픽 | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [7.py](appendix-B/7.py) |
+
+## 기타 코드
+- 11장 [생일 문제](miscellaneous/11-birthday.py)
+- 12장 [그래프 순회](miscellaneous/12-graph-traversals.py)
+- 14장 [트리 순회](miscellaneous/14-tree-traversals.py)
+- 17장 [버블 정렬](miscellaneous/17-bubble-sort.py)
+- 17장 [퀵 정렬](miscellaneous/17-quick-sort.py)
+- 21장 [분할 가능 배낭 문제](miscellaneous/21-fractional-knapsack.py)
+- 23장 [0-1 배낭 문제](miscellaneous/23-zero-one-knapsack.py)
