@@ -113,9 +113,11 @@
 | 95(문제 7) | 추석 트래픽 | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [7.py](appendix-B/7.py) |
 
 ## 기타 코드
+- 4장 [표준편차 계산 속도 비교](miscellaneous/4-performance.py)
 - 11장 [생일 문제](miscellaneous/11-birthday.py)
 - 12장 [그래프 순회](miscellaneous/12-graph-traversals.py)
 - 14장 [트리 순회](miscellaneous/14-tree-traversals.py)
+- 15장 [이진 힙](miscellaneous/15-binary-heap.py)
 - 17장 [버블 정렬](miscellaneous/17-bubble-sort.py)
 - 17장 [퀵 정렬](miscellaneous/17-quick-sort.py)
 - 21장 [분할 가능 배낭 문제](miscellaneous/21-fractional-knapsack.py)

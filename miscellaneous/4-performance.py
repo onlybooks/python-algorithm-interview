@@ -3,7 +3,7 @@ import random
 import numpy as np
 
 
-# 표준 편차 계산
+# 표준편차 계산
 def standard_deviation(lst):
     m = sum(lst) / len(lst)
     variance = sum([(value - m) ** 2 for value in lst])
