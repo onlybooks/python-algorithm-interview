@@ -114,6 +114,7 @@
 
 ## 기타 코드
 - 4장 [계산 속도 비교](miscellaneous/4-performance.py)
+- 9장 [스택](miscellaneous/9-stack.py)
 - 11장 [생일 문제](miscellaneous/11-birthday.py)
 - 12장 [그래프 순회](miscellaneous/12-graph-traversals.py)
 - 14장 [트리 순회](miscellaneous/14-tree-traversals.py)
