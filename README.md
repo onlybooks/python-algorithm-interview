@@ -104,13 +104,13 @@
 | 86 | [최대 서브 배열](https://leetcode.com/problems/maximum-subarray/) | ★ | 23장. 다이나믹 프로그래밍 | [86-1.py](5-algorithms/ch23/86-1.py)<br>[86-2.py](5-algorithms/ch23/86-2.py) |
 | 87 | [계단 오르기](https://leetcode.com/problems/climbing-stairs/) | ★ | 23장. 다이나믹 프로그래밍 | [87-1.py](5-algorithms/ch23/87-1.py)<br>[87-2.py](5-algorithms/ch23/87-2.py) |
 | 88 | [집 도둑](https://leetcode.com/problems/house-robber/) | ★ | 23장. 다이나믹 프로그래밍 | [88-1.py](5-algorithms/ch23/88-1.py)<br>[88-2.py](5-algorithms/ch23/88-2.py) |
-| 89(문제 1) | 비밀 지도 | ★ | 부록 B. 카카오 공채 문제 풀이 | [1.py](appendix-B/1.py) |
-| 90(문제 2) | 다트 게임 | ★ | 부록 B. 카카오 공채 문제 풀이 | [2.py](appendix-B/2.py) |
-| 91(문제 3) | 캐시 | ★ | 부록 B. 카카오 공채 문제 풀이 | [3.py](appendix-B/3.py) |
-| 92(문제 4) | 셔틀버스 | ★★ | 부록 B. 카카오 공채 문제 풀이 | [4.py](appendix-B/4.py) |
-| 93(문제 5) | 뉴스 클러스터링 | ★★ | 부록 B. 카카오 공채 문제 풀이 | [5.py](appendix-B/5.py) |
-| 94(문제 6) | 프렌즈4블록 | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [6.py](appendix-B/6.py) |
-| 95(문제 7) | 추석 트래픽 | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [7.py](appendix-B/7.py) |
+| 89(문제 1) | [비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | ★ | 부록 B. 카카오 공채 문제 풀이 | [1.py](appendix-B/1.py) |
+| 90(문제 2) | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | ★ | 부록 B. 카카오 공채 문제 풀이 | [2.py](appendix-B/2.py) |
+| 91(문제 3) | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | ★ | 부록 B. 카카오 공채 문제 풀이 | [3.py](appendix-B/3.py) |
+| 92(문제 4) | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | ★★ | 부록 B. 카카오 공채 문제 풀이 | [4.py](appendix-B/4.py) |
+| 93(문제 5) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | ★★ | 부록 B. 카카오 공채 문제 풀이 | [5.py](appendix-B/5.py) |
+| 94(문제 6) | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [6.py](appendix-B/6.py) |
+| 95(문제 7) | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | ★★★ | 부록 B. 카카오 공채 문제 풀이 | [7.py](appendix-B/7.py) |
 
 ## 기타 코드
 - 4장 [계산 속도 비교](miscellaneous/4-performance.py)
