@@ -3,8 +3,9 @@ import collections
 
 # Definition for singly-linked list.
 class ListNode:
-    def __init__(self, x):
-        self.val = x
+    def __init__(self, key=None, value=None):
+        self.key = key
+        self.value = value
         self.next = None
 
 
