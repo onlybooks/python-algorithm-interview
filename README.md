@@ -10,7 +10,8 @@
 
 및 전국 교보문고 매장
 
-★ 정오표: https://www.onlybook.co.kr/entry/algorithm-interview-errata 
+★ 정오표: https://www.onlybook.co.kr/entry/algorithm-interview-errata  
+★ 도서정보: https://www.onlybook.co.kr/entry/algorithm-interview
 
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
