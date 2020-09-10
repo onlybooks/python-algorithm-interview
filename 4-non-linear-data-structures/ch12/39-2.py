@@ -16,7 +16,7 @@ class Solution:
             # 순환 구조이면 False
             if i in traced:
                 return False
-            # 이미 방문했던 노드이면 False
+            # 이미 방문했던 노드이면 True
             if i in visited:
                 return True
 
