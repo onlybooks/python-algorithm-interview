@@ -13,7 +13,7 @@
 ★ 정오표: https://www.onlybook.co.kr/entry/algorithm-interview-errata  
 ★ 도서정보: https://www.onlybook.co.kr/entry/algorithm-interview
 
-[![](https://img.youtube.com/vi/fNyGHpSWhTA/0.jpg)](https://www.youtube.com/watch?v=fNyGHpSWhTA)
+★ YouTube: https://www.youtube.com/watch?v=fNyGHpSWhTA
 
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
