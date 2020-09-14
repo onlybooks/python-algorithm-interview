@@ -20,7 +20,7 @@ class Solution:
         return prev
 
     # 연결 리스트를 파이썬 리스트로 변환
-    def toList(self, node: ListNode) -> ListNode:
+    def toList(self, node: ListNode) -> List:
         list: List = []
         while node:
             list.append(node.val)
@@ -28,7 +28,7 @@ class Solution:
         return list
 
     # 파이썬 리스트를 연결 리스트로 변환
-    def toReversedLinkedList(self, result: ListNode) -> ListNode:
+    def toReversedLinkedList(self, result: str) -> ListNode:
         prev: ListNode = None
         for r in result:
             node = ListNode(r)
