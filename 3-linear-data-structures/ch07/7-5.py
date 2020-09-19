@@ -12,4 +12,4 @@ class Solution:
             elif nums[left] + nums[right] > target:
                 right -= 1
             else:
-                return left, right
+                return [left, right]
