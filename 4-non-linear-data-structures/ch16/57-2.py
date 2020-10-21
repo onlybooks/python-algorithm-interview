@@ -25,7 +25,6 @@ class Trie:
             if self.is_palindrome(word[0:len(word) - i]):
                 node.palindrome_word_ids.append(index)
             node = node.children[char]
-            node.val = char
         node.word_id = index
 
     def search(self, index, word) -> List[List[int]]:
