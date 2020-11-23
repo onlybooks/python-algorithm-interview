@@ -21,7 +21,7 @@ class Solution:
                     right -= 1
                 else:
                     # `sum = 0`인 경우이므로 정답 및 스킵 처리
-                    results.append((nums[i], nums[left], nums[right]))
+                    results.append([nums[i], nums[left], nums[right]])
 
                     while left < right and nums[left] == nums[left + 1]:
                         left += 1
