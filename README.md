@@ -1,4 +1,14 @@
 # 파이썬 알고리즘 인터뷰
+
+<!-- TOC -->
+
+- [파이썬 알고리즘 인터뷰](#파이썬-알고리즘-인터뷰)
+    - [문제 풀이](#문제-풀이)
+    - [기타 코드](#기타-코드)
+    - [리트코드 변경 사항](#리트코드-변경-사항)
+
+<!-- /TOC -->
+
 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트
 
 ![책표지](http://docs.likejazz.com/images/2020/book-cover.jpg)  
@@ -17,6 +27,7 @@
 
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
+## 문제 풀이
 | 번호 | 제목 | 난이도 | 장 | 풀이 코드 |
 | --- | --- | ---- | - | --- |
 | 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 | [1-1.py](2-python/ch06/1-1.py)<br>[1-2.py](2-python/ch06/1-2.py)<br>[1-3.py](2-python/ch06/1-3.py)<br>[1-4.c](2-python/ch06/1-4.c) |
@@ -127,6 +138,6 @@
 - 21장 [분할 가능 배낭 문제](miscellaneous/21-fractional-knapsack.py)
 - 23장 [0-1 배낭 문제](miscellaneous/23-zero-one-knapsack.py)
 
-## 변경 사항
+## 리트코드 변경 사항
 - 7번 문제는 테스트케이스가 삭제되어 실행 시간이 달라졌습니다. [#62](https://github.com/onlybooks/algorithm-interview/issues/62)
 - 75번 문제는 테스트케이스가 추가되어 더 이상 풀이가 되지 않습니다. 새로운 풀이는 [#67](https://github.com/onlybooks/algorithm-interview/issues/67)을 참고하세요.
