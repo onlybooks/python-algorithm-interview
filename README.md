@@ -126,3 +126,7 @@
 - 17장 [퀵 정렬](miscellaneous/17-quick-sort.py)
 - 21장 [분할 가능 배낭 문제](miscellaneous/21-fractional-knapsack.py)
 - 23장 [0-1 배낭 문제](miscellaneous/23-zero-one-knapsack.py)
+
+## 변경 사항
+- 7번 문제는 테스트케이스가 삭제되어 실행 시간이 달라졌습니다. [#62](https://github.com/onlybooks/algorithm-interview/issues/62)
+- 75번 문제는 테스트케이스가 추가되어 더 이상 풀이가 되지 않습니다. 새로운 풀이는 [#67](https://github.com/onlybooks/algorithm-interview/issues/67)을 참고하세요.
