@@ -140,4 +140,5 @@
 
 ## 리트코드 변경 사항
 - 7번 문제는 테스트케이스가 삭제되어 실행 시간이 달라졌습니다. [#62](https://github.com/onlybooks/algorithm-interview/issues/62)
+- 33번 문제의 보다 효율적인 풀이는 [#91](https://github.com/onlybooks/algorithm-interview/issues/91)을 참고하세요.
 - 75번 문제는 테스트케이스가 추가되어 더 이상 풀이가 되지 않습니다. 새로운 풀이는 [#67](https://github.com/onlybooks/algorithm-interview/issues/67)을 참고하세요.
