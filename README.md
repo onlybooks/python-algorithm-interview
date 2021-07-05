@@ -140,9 +140,10 @@
 
 ## 리트코드 변경 사항
 - 7번 문제는 테스트케이스가 삭제되어 실행 시간이 달라졌습니다. [#62](https://github.com/onlybooks/algorithm-interview/issues/62)
-- 25번 문제의 불필요한 코드를 좀 더 제거한 풀이는 [#105](https://github.com/onlybooks/algorithm-interview/issues/105)를 참고하세요.
+- 25번 문제의 보다 효율적인 풀이는 [#105](https://github.com/onlybooks/algorithm-interview/issues/105)를 참고하세요.
 - 33번 문제의 보다 효율적인 풀이는 [#91](https://github.com/onlybooks/algorithm-interview/issues/91)을 참고하세요.
 - 35번 문제의 보다 효율적인 풀이는 [#111](https://github.com/onlybooks/algorithm-interview/issues/111)을 참고하세요.
+- 36번 문제의 보다 효율적인 풀이는 [#112](https://github.com/onlybooks/algorithm-interview/issues/112)를 참고하세요.
 - 41번 문제가 테스트케이스 변경으로 타임아웃이 발생하여 더 이상 풀이가 되지 않습니다. [#104](https://github.com/onlybooks/algorithm-interview/issues/104)
 - 47번 문제는 평가 함수의 변경으로 `TreeNode` 선언을 주석으로 처리하고 실행하세요. [#97](https://github.com/onlybooks/algorithm-interview/issues/97)
 - 75번 문제는 테스트케이스가 추가되어 더 이상 풀이가 되지 않습니다. 새로운 풀이는 [#67](https://github.com/onlybooks/algorithm-interview/issues/67)을 참고하세요.
