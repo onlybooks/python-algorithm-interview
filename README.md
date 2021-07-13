@@ -3,7 +3,7 @@
 - [파이썬 알고리즘 인터뷰](#파이썬-알고리즘-인터뷰)
     - [문제 풀이](#문제-풀이)
     - [기타 코드](#기타-코드)
-    - [리트코드 변경 사항](#리트코드-변경-사항)
+    - [리트코드 변경 사항 및 보다 효율적인 풀이](#리트코드-변경-사항-및-보다-효율적인-풀이)
 
 <!-- /TOC -->
 
@@ -24,6 +24,8 @@
 ★ 도서정보: https://www.onlybook.co.kr/entry/algorithm-interview
 
 ★ YouTube: https://www.youtube.com/watch?v=fNyGHpSWhTA
+
+☆ 학교나 학원에서 강의를 진행하시는 교수님/강사님께 제공 가능한 이 책의 강의 교안 자료가 준비되어 있습니다. (1) 성함, 연락처 (2) 강의처 (3) 강의 교과목 (4) 간단한 강의계획 등을 정리하셔서 support@onlybook.co.kr 이메일로 보내주십시오. 내용 검토 후 제공해드리겠습니다.
 
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
@@ -138,7 +140,7 @@
 - 21장 [분할 가능 배낭 문제](miscellaneous/21-fractional-knapsack.py)
 - 23장 [0-1 배낭 문제](miscellaneous/23-zero-one-knapsack.py)
 
-## 리트코드 변경 사항
+## 리트코드 변경 사항 및 보다 효율적인 풀이
 - 7번 문제는 테스트케이스가 삭제되어 실행 시간이 달라졌습니다. [#62](https://github.com/onlybooks/algorithm-interview/issues/62)
 - 25번 문제의 보다 효율적인 풀이는 [#105](https://github.com/onlybooks/algorithm-interview/issues/105)를 참고하세요.
 - 33번 문제의 보다 효율적인 풀이는 [#91](https://github.com/onlybooks/algorithm-interview/issues/91)을 참고하세요.
