@@ -15,4 +15,4 @@ class Solution:
             cur.next, head.next, head = head, cur.next, head.next
 
             cur = parent
-            return cur.next
+        return cur.next
