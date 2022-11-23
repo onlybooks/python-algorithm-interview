@@ -1,9 +1,9 @@
-# Definition for singly-linked list.
+# Definition for doubly-linked-list.
 class ListNode:
     def __init__(self, x):
         self.val = x
-        self.next = None
-
+        self.right = None
+        self.left = None
 
 class MyCircularDeque:
     def __init__(self, k: int):
