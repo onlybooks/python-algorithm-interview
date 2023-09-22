@@ -4,7 +4,8 @@
 
 ★ 안내: 2023년 9월, [《자바 알고리즘 인터뷰 with 코틀린》](https://www.onlybook.co.kr/entry/java-algorithm-interview) 신간이 출간되었습니다!
 
-![책표지](http://docs.likejazz.com/images/2020/book-cover.jpg)  
+<img src="http://docs.likejazz.com/images/2020/book-cover.jpg" width="40%">
+
 《파이썬 알고리즘 인터뷰》는 다음 판매처에서 구매하실 수 있습니다.
 - [교보문고](https://bit.ly/3feaYxi)
 - [YES24](https://bit.ly/3iGw8Gw)
