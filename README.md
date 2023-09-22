@@ -27,6 +27,8 @@
 
 ☆ 학교나 학원에서 강의를 진행하시는 교수님/강사님께 제공 가능한 이 책의 강의 교안 자료가 준비되어 있습니다. (1) 성함, 연락처 (2) 강의처 (3) 강의 교과목 (4) 간단한 강의계획 등을 정리하셔서 support@onlybook.co.kr 이메일로 보내주십시오. 내용 검토 후 제공해드리겠습니다.
 
+★ 참고 GitHub: 《자바 알고리즘 인터뷰 with 코틀린》 https://github.com/onlybooks/java-algorithm-interview
+
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
 ## 문제 풀이
